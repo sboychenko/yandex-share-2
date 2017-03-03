@@ -79,13 +79,9 @@ class Yandex_Share_2_Plugin {
         );
 
         //$this->limit = 0;
-
         //$this->token = '';
-
         //$this->counter = false;
-
         //$this->bare = false;
-
         //$this->before = '';
 
         if ( ! empty( $this->options['services'] ) ) {
@@ -104,12 +100,6 @@ class Yandex_Share_2_Plugin {
         if( !is_single() ) {
             return $content;
         }
-
-        //echo '<pre>';
-        //echo print_r($post);
-        //echo $post->post_type;
-        //echo '</pre>';
-
 
         $share = $this->options['before'];
         $share .= sprintf('<div class="ya-share2" data-lang="ru" data-services="%s" data-direction="%s" data-size="%s" data-title="%s" data-url="%s" ',
@@ -208,12 +198,12 @@ class Yandex_Share_2_Plugin {
         ?>
         <input type="hidden" name="yandex-share-2[services-submit]" value="1" />
         <?php foreach ( $this->services as $key => $label ) : ?>
-            <label><input
+            <label style="width: 150px; display: inline-block;"><input
                         type="checkbox"
                         name="yandex-share-2[services][<?php echo esc_attr( $key ); ?>]"
                         value="1"
                     <?php checked( in_array( $key, $selected_services ) ); ?>
-                /> <?php echo esc_html( $label ); ?></label><br />
+                /> <?php echo esc_html( $label ); ?></label>
         <?php endforeach; ?>
         <?php
     }
