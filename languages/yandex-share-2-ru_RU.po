@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yandex Share 2\n"
+"POT-Creation-Date: 2017-03-02 18:32+0300\n"
+"PO-Revision-Date: 2017-03-03 10:52+0300\n"
+"Last-Translator: Сергей Бойченко <serg.boychenko@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../yandex-share.php:39
+msgid "Vkontakte"
+msgstr "Вконтакте"
+
+#: ../yandex-share.php:40
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../yandex-share.php:41
+msgid "Odnoklassniki"
+msgstr "Одноклассники"
+
+#: ../yandex-share.php:42
+msgid "Google+"
+msgstr "Google+"
+
+#: ../yandex-share.php:43
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../yandex-share.php:44
+msgid "Moy Mir"
+msgstr "Мой Мир"
+
+#: ../yandex-share.php:45
+msgid "LiveJournal"
+msgstr "Живой журнал"
+
+#: ../yandex-share.php:46
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../yandex-share.php:48
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../yandex-share.php:49
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../yandex-share.php:51
+msgid "Skype"
+msgstr "Skype"
+
+#: ../yandex-share.php:52
+msgid "Viber"
+msgstr "Viber"
+
+#: ../yandex-share.php:53
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: ../yandex-share.php:54
+msgid "Telegram"
+msgstr "Telegram"
+
+#: ../yandex-share.php:55
+msgid "Blogger"
+msgstr "Blogger"
+
+#: ../yandex-share.php:57
+msgid "Evernote"
+msgstr "Evernote"
+
+#: ../yandex-share.php:58
+msgid "Pocket"
+msgstr "Pocket"
+
+#: ../yandex-share.php:59
+msgid "Ya"
+msgstr "Яндекс"
+
+#: ../yandex-share.php:60
+msgid "Delicious"
+msgstr "Delicious"
+
+#: ../yandex-share.php:61
+msgid "Digg"
+msgstr "Digg"
+
+#: ../yandex-share.php:63
+msgid "Qzone"
+msgstr "Qzone"
+
+#: ../yandex-share.php:64
+msgid "Reddit"
+msgstr "Reddit"
+
+#: ../yandex-share.php:65
+msgid "Renren"
+msgstr "Renren"
+
+#: ../yandex-share.php:66
+msgid "Sina Weibo"
+msgstr "Sina Weibo"
+
+#: ../yandex-share.php:67
+msgid "Surfingbird"
+msgstr "Surfingbird"
+
+#: ../yandex-share.php:68
+msgid "Tencent Weibo"
+msgstr "Tencent Weibo"
+
+#: ../yandex-share.php:72
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: ../yandex-share.php:73
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: ../yandex-share.php:77
+msgid "Big"
+msgstr "Большие"
+
+#: ../yandex-share.php:78
+msgid "Little"
+msgstr "Маленькие"
+
+#: ../yandex-share.php:151
+msgid "Services"
+msgstr "Кнопки"
+
+#: ../yandex-share.php:152
+msgid "HTML before"
+msgstr "Html код перед блоком"
+
+#: ../yandex-share.php:153
+msgid "Size"
+msgstr "Размер"
+
+#: ../yandex-share.php:154
+msgid "Direction"
+msgstr "Направление"
+
+#: ../yandex-share.php:155
+msgid "Limit"
+msgstr "Лимит кнопок"
+
+#: ../yandex-share.php:156
+msgid "Token"
+msgstr "Facebook токен"
+
+#: ../yandex-share.php:157
+msgid "Counter"
+msgstr "Счетчик"
+
+#: ../yandex-share.php:158
+msgid "Bare"
+msgstr "Bare"
+
+#: ../yandex-share.php:282 ../yandex-share.php:289
+msgid "Yandex Share 2"
+msgstr "Блок \"Поделиться\""
+
+#: ../yandex-share.php:290
+msgid "Allow add share Yandex buttons"
+msgstr ""
+"Позволяет добавить блок Поделиться от Яндекса ко всем записям блога."
+"<br>\n"
+"Кнопки будут отображаться только при просмотре полной записи.<br>\n"
+"Информацию по параметрам можно прочитать на сайте яндекса: <a href="
+"\"https://tech.yandex.ru/share/ \" target=\"_blank\">https://tech.yandex."
+"ru/share/</a>"
